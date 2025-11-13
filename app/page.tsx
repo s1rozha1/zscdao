@@ -42,7 +42,7 @@ export default function Home() {
           <h2>About Us</h2>
 
           <div className="intro-card">
-            <p>Welcome to <strong>zerosupercycle DAO</strong> — a Decentralized Autonomous Organization community for everyone passionate about prediction markets and actively trading on Polymarket.</p>
+            <p>Welcome to zerosupercycle DAO — a Decentralized Autonomous Organization for everyone passionate about prediction markets and actively trading on Polymarket.</p>
           </div>
 
           <div className="cards-grid">
