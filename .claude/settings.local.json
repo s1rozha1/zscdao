@@ -9,7 +9,14 @@
       "Bash(cp:*)",
       "Bash(test:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nInitial commit: ZSC DAO landing page\n\n- Next.js 14 with App Router and TypeScript\n- Responsive landing page with animated backgrounds\n- Social media integration (X/Twitter, Discord)\n- Optimized images and SEO metadata\n- Ready for Vercel deployment\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git config:*)",
+      "Bash(gh:*)",
+      "Bash(winget:*)",
+      "Bash(choco --version:*)",
+      "Bash(scoop:*)",
+      "Bash(choco install:*)"
     ],
     "deny": [],
     "ask": []
